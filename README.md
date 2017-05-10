@@ -1,0 +1,2 @@
+# org_repo_move
+organization下のリポジトリ移管テスト
